@@ -9,3 +9,18 @@ Lepkom Gunadarma - Fundamental Desktop (Passed)
 Lepkom Gunadarma - Fundamental Web (On Prosess)
 
 .....
+
+**Learning Experience beyond the University**
+
+**September 16th, 2023**
+Dicoding : Belajar Dasar SQL (Passed)
+
+**September 20th, 2023**
+Dicoding : Belajar Dasar Git dengan GitHub
+
+**September 21st, 2023**
+Dicoding : Memulai Dasar Pemrograman untuk menjadi Pengembang Software
+
+**September 22nd, 2023**
+Dicoding : Memulai Pemrograman dengan Haskell
+.....
